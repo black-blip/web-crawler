@@ -1,8 +1,3 @@
-# Group No.: 6
-# Journal Name: Genome Biology 
-# Website: http://genomebiology.biomedcentral.com/
-# Group Members: Kexin Li(kl428) Naga Akhil Desabattina(nd36) Yash Barad(yb98)
-
 library(RCurl)
 library(XML)
 library(stringr)
